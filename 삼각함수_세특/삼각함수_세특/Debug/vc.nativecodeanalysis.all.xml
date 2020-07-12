@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\김병진\Desktop\프로그램\세특용도 프로그램\삼각함수_세특\삼각함수_세특\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>50</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>'WinMain'에 대한 주석이 일치하지 않습니다. 이 인스턴스에는 주석 없음이(가) 있습니다. c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winbase.h(933)을(를) 참조하십시오. </DESCRIPTION>
+    <FUNCTION>WinMain</FUNCTION>
+    <DECORATED>WinMain@16</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
